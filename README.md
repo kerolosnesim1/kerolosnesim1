@@ -1,16 +1,19 @@
-## Hi there 👋
+Hey there 👋
 
-<!--
-**kerolosnesim1/kerolosnesim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Kerolos], a backend-focused software engineer.
 
-Here are some ideas to get you started:
+I design and build scalable web systems using ASP.NET Core and C#.
+I care about writing code that is clean, maintainable, and performs well under real-world conditions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main stack includes C#, SQL Server, Entity Framework, TypeScript, and Angular.
+I also work with REST APIs, system design, and backend architecture.
+
+Right now, I'm focused on building systems that reflect real business environments, 
+where structure, data flow, and long-term reliability matter.
+
+I'm continuously improving my engineering skills with the goal of contributing to large, high-impact systems.
+
+If you'd like to connect, feel free to reach out:
+
+* LinkedIn: [https://www.linkedin.com/in/kerolos-nesim11/]
+* Email: [kerolosnesim6@gmail.com].
